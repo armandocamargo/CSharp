@@ -1,0 +1,11 @@
+D:\Programação\C#\ExercicioContaBancaria\ExercicioContaBancaria\bin\Debug\netcoreapp3.1\ExercicioContaBancaria.exe
+D:\Programação\C#\ExercicioContaBancaria\ExercicioContaBancaria\bin\Debug\netcoreapp3.1\ExercicioContaBancaria.deps.json
+D:\Programação\C#\ExercicioContaBancaria\ExercicioContaBancaria\bin\Debug\netcoreapp3.1\ExercicioContaBancaria.runtimeconfig.json
+D:\Programação\C#\ExercicioContaBancaria\ExercicioContaBancaria\bin\Debug\netcoreapp3.1\ExercicioContaBancaria.runtimeconfig.dev.json
+D:\Programação\C#\ExercicioContaBancaria\ExercicioContaBancaria\bin\Debug\netcoreapp3.1\ExercicioContaBancaria.dll
+D:\Programação\C#\ExercicioContaBancaria\ExercicioContaBancaria\bin\Debug\netcoreapp3.1\ExercicioContaBancaria.pdb
+D:\Programação\C#\ExercicioContaBancaria\ExercicioContaBancaria\obj\Debug\netcoreapp3.1\ExercicioContaBancaria.csprojAssemblyReference.cache
+D:\Programação\C#\ExercicioContaBancaria\ExercicioContaBancaria\obj\Debug\netcoreapp3.1\ExercicioContaBancaria.AssemblyInfoInputs.cache
+D:\Programação\C#\ExercicioContaBancaria\ExercicioContaBancaria\obj\Debug\netcoreapp3.1\ExercicioContaBancaria.AssemblyInfo.cs
+D:\Programação\C#\ExercicioContaBancaria\ExercicioContaBancaria\obj\Debug\netcoreapp3.1\ExercicioContaBancaria.dll
+D:\Programação\C#\ExercicioContaBancaria\ExercicioContaBancaria\obj\Debug\netcoreapp3.1\ExercicioContaBancaria.pdb
